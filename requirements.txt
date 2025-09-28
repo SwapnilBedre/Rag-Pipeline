@@ -1,3 +1,16 @@
 numpy
 pandas
 faker
+langchain
+transformers
+sentence-transformers
+faiss-cpu
+rank_bm25
+fastapi
+uvicorn
+python-multipart
+PyPDF2
+tika
+requests
+scikit-learn
+python-dotenv
