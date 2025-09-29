@@ -2,6 +2,7 @@ numpy
 pandas
 faker
 langchain
+langchain_community
 transformers
 sentence-transformers
 faiss-cpu
